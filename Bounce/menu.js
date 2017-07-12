@@ -133,7 +133,7 @@ var Menu = function (pjs, obj) {
 
 game.newLoopFromClassObject('menu', new Menu(pjs, {
 	name  : 'Bounce',
-	author : 'SkanerSoft',
+	author : 'Карим Саед',
 	radius : 15,
 	items : {
 		game  : 'В игру',
